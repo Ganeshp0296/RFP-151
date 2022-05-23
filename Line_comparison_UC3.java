@@ -1,6 +1,5 @@
 package com.bridgelabz;
 import java.lang.*;
-//import java.util.objects;
 import java.util.Objects;
 
 public class Line_comparison_UC3 {
