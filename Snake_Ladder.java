@@ -4,14 +4,6 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
-  * You can read more about Snakes n Ladders Java Program Implementation at 
-  * http://codepumpkin.com/snakes-n-ladders/
-  * 
-  * @author codepumpkin.com 
-  *
-  */
-
 public class Snake_Ladder {
 
 	public static void main(String[] args) {
